@@ -8,6 +8,6 @@ for number in nums:
     if (nums[count] == nums[i]) :
         print("false")
     i += 1
-
+int a=b
 
 
