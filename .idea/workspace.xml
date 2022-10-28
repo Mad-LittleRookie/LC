@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 94-2">
-      <change beforePath="$PROJECT_DIR$/src/Solution94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution94.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 94-2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,7 @@
       <updated>1639478022889</updated>
       <workItem from="1639478035096" duration="5905000" />
       <workItem from="1639492104139" duration="79000" />
-      <workItem from="1666924639539" duration="1674000" />
+      <workItem from="1666924639539" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666926029385</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Question 94-2">
+      <created>1666926320125</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666926320125</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
