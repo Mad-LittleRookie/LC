@@ -5,6 +5,7 @@ class Solution94 {
         public class TreeNode {
             int val;
             int jj;
+            int gg;
             TreeNode left;
             TreeNode right;
             TreeNode() {}
