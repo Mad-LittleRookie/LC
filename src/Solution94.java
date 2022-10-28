@@ -4,6 +4,7 @@ class Solution94 {
     protected class Solution {
         public class TreeNode {
             int val;
+            int jj;
             TreeNode left;
             TreeNode right;
             TreeNode() {}

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="first debug">
-      <change afterPath="$PROJECT_DIR$/src/Solution94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/217. Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/217. Contains Duplicate.py" afterDir="false" />
-    </list>
+    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 94" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +34,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,7 +99,7 @@
       <updated>1639478022889</updated>
       <workItem from="1639478035096" duration="5905000" />
       <workItem from="1639492104139" duration="79000" />
-      <workItem from="1666924639539" duration="693000" />
+      <workItem from="1666924639539" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
@@ -134,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639479775716</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Question 94">
+      <created>1666925496803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666925496804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="frist page" />
     <MESSAGE value="first debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="first debug" />
+    <MESSAGE value="Question 94" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 94" />
   </component>
 </project>
