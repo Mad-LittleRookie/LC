@@ -18,6 +18,7 @@ public class Solution169 {
 //            return
             int majorityCount = nums.length/2;
             int count=0;
+            int jj;
             for(int i:nums){
                 for( int j:nums){
                     if(j==i){
