@@ -1,6 +1,4 @@
-import com.sun.tools.javac.Main;
-
-public class Solution24 {
+public class Solution24_SwapPairs {
     class Solution {
         public static class ListNode {
             int val;
