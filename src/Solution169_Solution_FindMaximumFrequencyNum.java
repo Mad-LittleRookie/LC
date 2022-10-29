@@ -1,5 +1,4 @@
-import java.util.*;
-public class Solution169 {
+public class Solution169_Solution_FindMaximumFrequencyNum {
     protected class Solution {
         public int majorityElement(int[] nums) {
 //            Map<String,Integer> answer = new HashMap<String,Integer>();

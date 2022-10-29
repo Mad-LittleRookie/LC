@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution700 {
+public class Solution700_SearchBStree {
     public class TreeNode {
      int val;
      TreeNode left;
@@ -13,7 +13,7 @@ public class Solution700 {
      }
 
  }
- public Solution700(){}
+ public void Solution700(){}
     List<Integer> tree = new ArrayList();
     protected TreeNode searchBST(TreeNode root, int val) {
 //        Solution700 a=new Solution700();

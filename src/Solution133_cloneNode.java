@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution133 {
+public class Solution133_cloneNode {
     class Node {
         public int val;
         public List<Node> neighbors;

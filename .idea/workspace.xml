@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 700">
-      <change afterPath="$PROJECT_DIR$/src/Solution133.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 133 Unsloved">
+      <change beforePath="$PROJECT_DIR$/src/217. Contains Duplicate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution133.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution133_cloneNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution169_Solution_FindMaximumFrequencyNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution24_SwapPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution700.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution700_SearchBStree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +106,7 @@
       <updated>1639478022889</updated>
       <workItem from="1639478035096" duration="5905000" />
       <workItem from="1639492104139" duration="79000" />
-      <workItem from="1666924639539" duration="15550000" />
+      <workItem from="1666924639539" duration="15969000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
@@ -203,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667007047938</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Question 133 Unsloved">
+      <created>1667063807248</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667063807248</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +239,7 @@
     <MESSAGE value="Question 169" />
     <MESSAGE value="Question 24-Approach1" />
     <MESSAGE value="Question 700" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 700" />
+    <MESSAGE value="Question 133 Unsloved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 133 Unsloved" />
   </component>
 </project>
