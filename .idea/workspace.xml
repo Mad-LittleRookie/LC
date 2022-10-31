@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="Question 133 Unsloved">
-      <change beforePath="$PROJECT_DIR$/src/217. Contains Duplicate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution133.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution133_cloneNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution169_Solution_FindMaximumFrequencyNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution24_SwapPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution700.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution700_SearchBStree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution17_SearchCombination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -106,7 +108,7 @@
       <updated>1639478022889</updated>
       <workItem from="1639478035096" duration="5905000" />
       <workItem from="1639492104139" duration="79000" />
-      <workItem from="1666924639539" duration="15969000" />
+      <workItem from="1666924639539" duration="20738000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
@@ -213,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667063807248</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Question 133 Unsloved">
+      <created>1667064245474</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667064245474</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Question 133 Unsloved">
+      <created>1667064255967</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667064255967</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
