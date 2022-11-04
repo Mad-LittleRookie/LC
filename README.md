@@ -3,6 +3,7 @@
 # 金鞍铁马金去邀功
 # 不见马骨伤寒水
 # 惟见龙城起暮云
+# No more lone from Nov.
 # Multimodal datasets
 
 This repository is build in association with our position paper on "Multimodality for NLP-Centered Applications: Resources, Advances and

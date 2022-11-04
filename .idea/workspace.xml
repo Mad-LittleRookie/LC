@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="transfer code">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="transfer code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +107,7 @@
       <workItem from="1666924639539" duration="22196000" />
       <workItem from="1667250344721" duration="2000" />
       <workItem from="1667260994044" duration="823000" />
-      <workItem from="1667448187198" duration="169000" />
+      <workItem from="1667448187198" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
@@ -281,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667337712855</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="transfer code">
+      <created>1667448392160</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667448392160</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
