@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="non" />
+    <list default="true" id="cbb35819-049d-43cb-86cd-01268cc7abdf" name="Changes" comment="non">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Target9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Target9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +121,7 @@
       <workItem from="1667883262503" duration="171000" />
       <workItem from="1667973990614" duration="12000" />
       <workItem from="1668663124124" duration="155000" />
+      <workItem from="1669872721673" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="frist page">
       <created>1639478485469</created>
