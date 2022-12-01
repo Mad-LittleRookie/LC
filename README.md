@@ -8,7 +8,7 @@
 # No more lone from Nov.
 # Multimodal datasets
 # dfas
-# d aka
+# d akad
 This repository is build in association with our position paper on "Multimodality for NLP-Centered Applications: Resources, Advances and
 Frontiers".
 
