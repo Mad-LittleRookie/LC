@@ -1,11 +1,9 @@
 public class Solution11 {
     //nothihing
-    //noobwqehjkwqe
-    //badsfasdfdasasdffa
     //asdfafsdsdffds
-    //fdsaqfe
+    //fdsaqf
     //a/sdasdff
-    //sadf
+    //sa
     public static void main(String[] args){
         System.out.print("none");
     }
