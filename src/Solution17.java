@@ -3,10 +3,7 @@ import java.util.List;
 import java.util.Map;
 //fds
 public class Solution17 {
-    //aaafhsdfdsfgdsfgdsffgsdfdhsdfdsgygffsdaasdf
-    //shat can I do for you
-    //asdffds
-    //sdf
+
     class Solution {//fads
 //        public static class number {
 //            String[] number2 = new String[]{"2", "a", "b", "c"};
