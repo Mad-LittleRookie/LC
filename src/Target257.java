@@ -1,2 +1,2 @@
-public class Target257//
+public class Target257
 }
