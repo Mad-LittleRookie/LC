@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
-public class CustomProgram {//
+public class CustomProgram {
     public static void main(String[] args) throws Exception {
         // reads the provided customPage.html into list
         Scanner in = new Scanner(new File("customPage.html"));
