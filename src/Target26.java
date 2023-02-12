@@ -1,2 +1,2 @@
-public class Target26 {///
+public class Target26 {
 }
