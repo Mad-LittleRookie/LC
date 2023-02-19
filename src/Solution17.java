@@ -10,10 +10,7 @@ public class Solution17
 //            String[] number4 = new String[]{"4", "g", "h", "i"};
 //            String[] number5 = new String[]{"5", "j", "k", "l"};
 //            String[] number6 = new String[]{"6", "m", "n", "o"};
-//            String[] number7 = new String[]{"7", "p", "q", "r", "s"};
-//            String[] number8 = new String[]{"8", "t", "u", "v"};
-//            String[] number9 = new String[]{"9", "w", "x", "y", "z"};
-//        }
+
         private  List<String> combinations = new ArrayList<>();
         private Map<Character, String> letters = Map.of(
                 '2', "abc", '3', "def", '4', "ghi", '5', "jkl",
