@@ -4,10 +4,6 @@ import java.util.List;
 import java.util.Map;
 public class Solution17
     class Solution {
-//        public static class number {
-//            String[] number2 = new String[]{"2", "a", "b", "c"};
-
-
         private  List<String> combinations = new ArrayList<>();
         private Map<Character, String> letters = Map.of(
                 '2', "abc", '3', "def", '4', "ghi", '5', "jkl",
