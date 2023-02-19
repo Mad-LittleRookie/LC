@@ -7,9 +7,7 @@ public class Solution17
 //        public static class number {
 //            String[] number2 = new String[]{"2", "a", "b", "c"};
 //            String[] number3 = new String[]{"3", "d", "e", "f"};
-//            String[] number4 = new String[]{"4", "g", "h", "i"};
-//            String[] number5 = new String[]{"5", "j", "k", "l"};
-//            String[] number6 = new String[]{"6", "m", "n", "o"};
+
 
         private  List<String> combinations = new ArrayList<>();
         private Map<Character, String> letters = Map.of(
