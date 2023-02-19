@@ -6,7 +6,6 @@ public class Solution17
     class Solution {
 //        public static class number {
 //            String[] number2 = new String[]{"2", "a", "b", "c"};
-//            String[] number3 = new String[]{"3", "d", "e", "f"};
 
 
         private  List<String> combinations = new ArrayList<>();
